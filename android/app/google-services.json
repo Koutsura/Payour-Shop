@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233072952432",
+    "project_id": "pshop-db628",
+    "storage_bucket": "pshop-db628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233072952432:android:9f6ba77ff646c89f01e0b5",
+        "android_client_info": {
+          "package_name": "com.example.pshop_aplikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpMDOc8TOJUAcShvBxvULyObr49xtXtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
